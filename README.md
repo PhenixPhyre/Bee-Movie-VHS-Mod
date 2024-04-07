@@ -1,5 +1,4 @@
-![Uploading poster.png…]()
-
+![poster](https://github.com/PhenixPhyre/Bee-Movie-VHS-Mod/assets/133281438/761ac8d1-fb6d-4e74-aab4-a4d25b219b45)
 
 The entire Bee Movie in VHS form.
 
