@@ -1,0 +1,10 @@
+version=1
+id=3215026819
+title=Bee Movie VHS
+description=The entire Bee Movie in VHS form.
+description=
+description=Spawns in Home's VHS around the map.
+description=
+description=Enjoy!
+tags=Build 41;Items;Pop Culture;Silly/Fun
+visibility=public
